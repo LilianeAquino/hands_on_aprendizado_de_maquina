@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 /datasets
+/tf_logs
+/logs
 .meta
 .index
 .ckpt
