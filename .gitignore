@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 /datasets
+/models
 /tf_logs
 /logs
 .meta
