@@ -130,6 +130,7 @@ dmypy.json
 
 /datasets
 /models
+/model
 /tf_logs
 /logs
 .meta
